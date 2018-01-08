@@ -7,8 +7,8 @@ Allows you to add notes, remove notes, add alerts and remove alerts. <br/>
 Repeated alert intervals. <br/>
 Notification alerts.
 
-![](assets/reminder1.png) ![](assets/reminder2.png)
-![](assets/reminder3.png)
+![](assets/reminder1.png){:height="50%" width="50%"} ![](assets/reminder2.png){:height="50%" width="50%"}
+![](assets/reminder3.png){:height="50%" width="50%"}
 
 NOTE: Screenshots outdated, not reflective of current state of the app.
 
